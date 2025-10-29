@@ -29,6 +29,7 @@ on:
           - 24.10.1
           - 24.10.2
           - 24.10.3
+          - 24.10.4
       enable_store:
         description: "集成 store 商店"
         required: false
